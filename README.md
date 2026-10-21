@@ -1,7 +1,7 @@
 # Snaens' STM32 playground
 
-Dieses Repo demonstriert die Nutzung einer Alternativen zu der an der TH Nuernberg verwendeten STM32CubeIDE.  
-Herzstück des ganzen ist Plaformio, eine Toolchain mit der sich quasi jeder Microcontroller programmieren lässt.  
+Dieses Repo demonstriert die Nutzung einer Alternativen zu der an der TH Nürnberg verwendeten STM32CubeIDE.  
+Herzstück des ganzen ist Platformio, eine Toolchain mit der sich quasi jeder Microcontroller programmieren lässt.  
 
 Dieses repo ist direkt ein Platformio Projekt, also sollte es direkt funktionieren.  
 Wenn nicht schreib mir was in den Issues!
